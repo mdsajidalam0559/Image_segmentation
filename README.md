@@ -1,5 +1,5 @@
 # image_segmentation
-Certainly! Here's a writeup for your GitHub project description:
+
 
 ---
 
@@ -37,8 +37,6 @@ The trained U-Net model exhibited remarkable performance with an accuracy of 97%
 We acknowledge the creators of the CARLA self-driving car dataset for providing valuable data for research and development in autonomous driving technologies.
 
 ## About the Author
-This project was developed by [Your Name] as part of [Course/Research/Personal Project] at [Institution/Company]. Feel free to reach out for any questions or collaborations.
-
+This project was developed by Md Sajid Alam as Self Project.
 ---
 
-Feel free to customize the writeup according to your specific details and project context. Good luck with your GitHub project!
