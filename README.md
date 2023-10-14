@@ -33,10 +33,7 @@ The trained U-Net model exhibited remarkable performance with an accuracy of 97%
 - **Real-Time Inference:** Optimize the model for real-time inference, ensuring low latency and high throughput to enable seamless integration into autonomous vehicles.
 - **Data Augmentation:** Implement advanced data augmentation techniques to augment the training dataset, enhancing the model's ability to generalize to diverse driving scenarios.
 
-## Acknowledgements
-We acknowledge the creators of the CARLA self-driving car dataset for providing valuable data for research and development in autonomous driving technologies.
 
-## About the Author
-This project was developed by Md Sajid Alam as Self Project.
+
 ---
 
